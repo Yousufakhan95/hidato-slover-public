@@ -36,45 +36,9 @@ The Hidato puzzle generation and solving processes required the implementation o
 For inspiration and reference, I utilized discussions and solutions from the following Stack Overflow page:  
 [Fill 2D Grid with Single Path](https://stackoverflow.com/questions/15898884/fill-2d-grid-with-single-path)
 
-## Installation and Setup
+## Visit
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/hidato-slover.git
-   cd hidato-slover
-Install dependencies for the frontend:
-
-bash
-Copy code
-cd frontend
-npm install
-Start the frontend development server:
-
-bash
-Copy code
-npm start
-Set up the backend:
-
-Ensure Python and Flask are installed.
-
-Install the necessary Python packages:
-
-bash
-Copy code
-pip install -r requirements.txt
-Start the backend server:
-
-bash
-Copy code
-flask run
-Visit the application in your browser:
-
-arduino
-Copy code
-http://localhost:3000
-Live Demo
-You can access the live application here.
+[Hidato Puzzle Slover](https://hidato-slover.vercel.app/)
 
 License
 This project is licensed under the MIT License.
